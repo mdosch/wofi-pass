@@ -1,3 +1,4 @@
+[Test result](https://app.travis-ci.com/schmidtandreas/wofi-pass.svg?branch=testing)
 # wofi-pass
 ```
 Usage: wofi-pass [options]
